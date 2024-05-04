@@ -2,7 +2,7 @@
 
 **About Me**
 
-I'm a data analyst with a passion for extracting valuable insights from data. I'm currently working at Amazon as a Catalog Analyst Specialist, where I leverage my expertise in various data tools and techniques to drive informed decision-making.
+I'm a data analyst with a passion for extracting valuable insights from data. I have worked at Amazon as a Catalog Analyst Specialist, where I leveraged my expertise in various data tools and techniques to drive informed decision-making.
 
 **Technical Skills**
 
